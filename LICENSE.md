@@ -1,4 +1,4 @@
-# 
+# 高级 Bybit交易机器人 扩展 for Mac OS | 精英 Bybit交易机器人 扩展 for PC Windows. Featuring 期货交易 and 均值回归策略 — optimized for maximum performance.
 
 
 
